@@ -1,5 +1,4 @@
-.round
-{
+.round {
     border-radius: 25px;
     width: 520px;
     height: 40px;
@@ -7,34 +6,30 @@
     border: 1px solid gray;
     display: flex;
     justify-content: center;
-    position: fixed; 
-    top: 300px; 
+    position: fixed;
+    top: 300px;
     left: 450px;
 }
 
-input[type=text]:focus
-{
+input[type=text]:focus {
     outline: 0.5px solid #36a1e3;
-    box-shadow: 0 0 3px #36a1e3; 
+    box-shadow: 0 0 3px #36a1e3;
 }
 
-#lucky
-{
-    position: absolute; 
-    top:400px; 
+#lucky {
+    position: absolute;
+    top:400px;
     left: 750px;
 }
 
-#search
-{
-    position: absolute; 
-    top:400px; 
+#search {
+    position: absolute;
+    top:400px;
     left: 525px;
 }
 
-#images
-{
-    position: absolute; 
-    top:400px; 
+#images {
+    position: absolute;
+    top:400px;
     left: 650px;
 }
